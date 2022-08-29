@@ -5,6 +5,7 @@ div {
 
 p {
   font-size: 1.3em;
+  color: #EBECE4;
 }
 
 img {
@@ -12,4 +13,9 @@ img {
   margin-left: auto;
   margin-right: auto;
    border-radius: 2%;
+}
+
+html {
+  background-color: black;
+  color: #EBECE4;
 }
